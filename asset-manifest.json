@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Testapp/static/css/main.b0e7a30f.css",
+    "main.js": "/Testapp/static/js/main.f31dca27.js",
+    "static/media/Roboto-Black.ttf": "/Testapp/static/media/Roboto-Black.45715786ed948b799cf8.ttf",
+    "static/media/Roboto-Italic.ttf": "/Testapp/static/media/Roboto-Italic.fed51269e045a3e4b6d2.ttf",
+    "static/media/Roboto-Medium.ttf": "/Testapp/static/media/Roboto-Medium.d2d7f0c01bffaa5ec8f7.ttf",
+    "static/media/bootstrap-icons.woff?": "/Testapp/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/Testapp/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "index.html": "/Testapp/index.html",
+    "main.b0e7a30f.css.map": "/Testapp/static/css/main.b0e7a30f.css.map",
+    "main.f31dca27.js.map": "/Testapp/static/js/main.f31dca27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0e7a30f.css",
+    "static/js/main.f31dca27.js"
+  ]
+}
